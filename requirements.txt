@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+requests
+pydantic
+pytest
+python-dotenv
+easyocr
+opencv-python
+pillow
+python-multipart
+ffmpeg-python
+pydub
+torch
+pyannote.audio
+onnxruntime
+transformers 
