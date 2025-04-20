@@ -13,4 +13,4 @@ pydub
 torch
 pyannote.audio
 onnxruntime
-transformers 
+transformers
