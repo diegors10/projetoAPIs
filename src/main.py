@@ -1,7 +1,7 @@
 from fastapi import FastAPI
-from api.extrator_audio import router as extrator_audio_router
-from api.ocr_placa import router as ocr_placa_router
-from api.ocr_placa2 import router as ocr_placa_router2
+from .api.extrator_audio import router as extrator_audio_router
+from .api.ocr_placa import router as ocr_placa_router
+from .api.ocr_placa2 import router as ocr_placa_router2
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
